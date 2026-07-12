@@ -1,0 +1,22 @@
+## Retail Business Intelligence Dashboard
+Overview
+
+This project demonstrates an end-to-end Retail Business Intelligence solution built using Google BigQuery as the cloud data warehouse and Microsoft Power BI for interactive analytics and dashboarding.
+
+The solution transforms retail sales data into actionable business insights covering sales performance, customer behavior, product profitability, inventory management, and marketing effectiveness.
+
+## Project Objectives
+Analyze retail sales performance across multiple dimensions.
+Identify high-performing products and categories.
+Monitor inventory health and stock movement.
+Understand customer purchasing behavior.
+Measure marketing campaign performance.
+Enable data-driven decision making through interactive dashboards.
+
+## Tech Stack
+Technology	Purpose
+Google BigQuery	Cloud Data Warehouse
+SQL	Data Cleaning & Transformation
+Power BI	Dashboard Development
+DAX	KPI Calculations
+Power Query	Data Preparation
