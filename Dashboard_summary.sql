@@ -26,3 +26,20 @@ SELECT
 
 FROM `project-58590435-81ce-49e7-b27.retail_bi_mart.vw_sales_detail`
 WHERE order_status = 'Completed'
+
+GROUP BY
+  order_date,
+  year,
+  quarter,
+  month,
+  month_name,
+  category,
+  subcategory,
+  brand,
+  customer_segment,
+  age_group,
+  customer_state,
+  store_type,
+  store_state,
+  channel_name,
+  channel_type;
