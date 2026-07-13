@@ -74,6 +74,10 @@ Enable data-driven decision making through interactive dashboards.
 
 ![image_alt](https://github.com/krishna87-tab/Retail-BI-Analytics-BigQuery-PowerBI-/blob/f46b41562092307bade6248529ca5c02f4990f51/Screenshots/Inventory%20Insights.png)
 
+# Product Analysis
+
+![image_alt](https://github.com/krishna87-tab/Retail-BI-Analytics-BigQuery-PowerBI-/blob/0c78de7227274509fa5b70b267623f3f2b4572f5/Screenshots/Product%20Analysis.png)
+
 ## Repository Structure
 
 ```text
