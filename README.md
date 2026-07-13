@@ -66,6 +66,9 @@ Enable data-driven decision making through interactive dashboards.
 ![image_alt](https://github.com/krishna87-tab/Retail-BI-Analytics-BigQuery-PowerBI-/blob/2dc803fad5361220b3aaacdcd36c50a2073e1d84/Screenshots/Executive%20KPIs.png)
 
 
+# Monthly Sales Insights
+
+![image_alt](https://github.com/krishna87-tab/Retail-BI-Analytics-BigQuery-PowerBI-/blob/f8bdee89458fb3ff7561a0d7a7c681a57dfe786c/Screenshots/Retail%20Monthly%20Sales.png)
 
 
 ## Repository Structure
