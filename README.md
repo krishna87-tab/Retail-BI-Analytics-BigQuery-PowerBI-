@@ -70,6 +70,9 @@ Enable data-driven decision making through interactive dashboards.
 
 ![image_alt](https://github.com/krishna87-tab/Retail-BI-Analytics-BigQuery-PowerBI-/blob/f8bdee89458fb3ff7561a0d7a7c681a57dfe786c/Screenshots/Retail%20Monthly%20Sales.png)
 
+# Inventory Insights
+
+![image_alt](https://github.com/krishna87-tab/Retail-BI-Analytics-BigQuery-PowerBI-/blob/f46b41562092307bade6248529ca5c02f4990f51/Screenshots/Inventory%20Insights.png)
 
 ## Repository Structure
 
