@@ -54,14 +54,17 @@ Enable data-driven decision making through interactive dashboards.
 | **Dashboard Page**         | **Purpose**                                                                      | **Key Insights / KPIs**                                                                                         |
 | -------------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | **Executive Overview**     | Provides a high-level summary of overall business performance.                   | Total Revenue, Total Profit, Total Orders, Profit Margin, Average Order Value, Sales Trends, Top Categories     |
+
+
+
+![image_alt](https://github.com/krishna87-tab/Retail-BI-Analytics-BigQuery-PowerBI-/blob/2dc803fad5361220b3aaacdcd36c50a2073e1d84/Screenshots/Executive%20KPIs.png)
+
+
 | **Monthly Sales Insights** | Analyzes sales performance over time to identify trends and seasonality.         | Monthly Revenue, Monthly Profit, Sales Growth, Order Volume, Revenue by Category, Sales Trends                  |
 | **Inventory Insights**     | Monitors inventory levels and stock movement to improve inventory management.    | Inventory Levels, Low Stock Products, Inventory Turnover, Stock Availability, Inventory Distribution            |
 | **Product Analysis**       | Evaluates product and category performance to identify best-performing products. | Best-Selling Products, Most Profitable Products, Revenue by Product, Profit by Product, Product Ranking         |
 | **Marketing Insights**     | Measures the effectiveness of marketing campaigns and channels.                  | Campaign Performance, Marketing ROI, Revenue by Channel, Customer Acquisition, Campaign Comparison              |
 | **Customer Insights**      | Examines customer purchasing behavior and segmentation.                          | Customer Segmentation, Customer Lifetime Value (CLV), Repeat Customers, Purchase Frequency, Geographic Analysis |
-
-
-![image_alt](https://github.com/krishna87-tab/Retail-BI-Analytics-BigQuery-PowerBI-/blob/2dc803fad5361220b3aaacdcd36c50a2073e1d84/Screenshots/Executive%20KPIs.png)
 
 ## Repository Structure
 
