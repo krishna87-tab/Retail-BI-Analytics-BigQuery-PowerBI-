@@ -60,6 +60,9 @@ Enable data-driven decision making through interactive dashboards.
 | **Marketing Insights**     | Measures the effectiveness of marketing campaigns and channels.                  | Campaign Performance, Marketing ROI, Revenue by Channel, Customer Acquisition, Campaign Comparison              |
 | **Customer Insights**      | Examines customer purchasing behavior and segmentation.                          | Customer Segmentation, Customer Lifetime Value (CLV), Repeat Customers, Purchase Frequency, Geographic Analysis |
 
+
+![image_alt]
+
 ## Repository Structure
 
 ```text
