@@ -59,7 +59,8 @@ Enable data-driven decision making through interactive dashboards.
 
 ![image_alt](https://github.com/krishna87-tab/Retail-BI-Analytics-BigQuery-PowerBI-/blob/2dc803fad5361220b3aaacdcd36c50a2073e1d84/Screenshots/Executive%20KPIs.png)
 
-
+                                                               |
+| -------------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | **Monthly Sales Insights** | Analyzes sales performance over time to identify trends and seasonality.         | Monthly Revenue, Monthly Profit, Sales Growth, Order Volume, Revenue by Category, Sales Trends                  |
 | **Inventory Insights**     | Monitors inventory levels and stock movement to improve inventory management.    | Inventory Levels, Low Stock Products, Inventory Turnover, Stock Availability, Inventory Distribution            |
 | **Product Analysis**       | Evaluates product and category performance to identify best-performing products. | Best-Selling Products, Most Profitable Products, Revenue by Product, Profit by Product, Product Ranking         |
