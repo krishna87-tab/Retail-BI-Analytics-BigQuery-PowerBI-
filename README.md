@@ -61,7 +61,7 @@ Enable data-driven decision making through interactive dashboards.
 | **Customer Insights**      | Examines customer purchasing behavior and segmentation.                          | Customer Segmentation, Customer Lifetime Value (CLV), Repeat Customers, Purchase Frequency, Geographic Analysis |
 
 
-![image_alt]
+![image_alt](https://github.com/krishna87-tab/Retail-BI-Analytics-BigQuery-PowerBI-/blob/2dc803fad5361220b3aaacdcd36c50a2073e1d84/Screenshots/Executive%20KPIs.png)
 
 ## Repository Structure
 
